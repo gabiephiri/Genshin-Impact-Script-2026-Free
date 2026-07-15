@@ -1,0 +1,5 @@
+discord.py
+pywin32
+mouse
+cryptography
+numpy
